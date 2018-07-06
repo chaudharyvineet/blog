@@ -1,1 +1,1 @@
-prototype of a blog
+# blog ( prototype )
